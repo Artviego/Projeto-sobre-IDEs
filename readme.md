@@ -1,3 +1,5 @@
+Nesse projeto, conto sobre a história do IDE, quais são os IDEs mais utilizados e suas funções.
+
 ## IDE
   Um IDE(Ambiente Integrado de Desenvolvimento, em inglês Integrated Development Environment) é um software que fornece ferramentas completas para os desenvolvedores escreverem, testarem e depurarem seus programas. É um ambiente centralizado que reúne diversas ferramentas essenciais para o processo de desenvolvimento de software, como um editor de código, um compilador ou interpretador, ferramentas de depuração, e muitas vezezs um gerenciador de projetos. 
 
